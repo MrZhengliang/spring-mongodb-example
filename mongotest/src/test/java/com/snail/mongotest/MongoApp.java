@@ -19,7 +19,6 @@ import com.splatform.mongotest.model.Person;
  * 
  * @author fuzl
  * @date 2015年4月17日
- * @Copyright 2015 Snail Soft, Inc. All rights reserved.
  */
 public class MongoApp {
 
